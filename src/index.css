@@ -1,6 +1,6 @@
 .card {
   background-color: #D8A47F;
-  margin: 100px;
+  margin: 50px;
 }
 
 .text-container{
@@ -24,4 +24,8 @@
 
 li {
   list-style: none;
+}
+
+.title{
+  text-align: center;
 }

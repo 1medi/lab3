@@ -17,11 +17,15 @@ function App() {
   ));
 
   return (
+    <>
+        <h1 className='title'>Best Selling Rap Artists</h1>
     <div className="app">
       <ul>
         {arrayDataItems}
       </ul>
     </div>
+    </>
+
   );
 }
 
